@@ -1,0 +1,7 @@
+info: Application started {"timestamp":"2026-02-28T02:27:20.223Z"}
+info: Server running on http://localhost:3000 {"timestamp":"2026-02-28T02:27:20.230Z"}
+info: Application started {"timestamp":"2026-03-01T06:52:18.838Z"}
+info: Server running on http://localhost:3000 {"timestamp":"2026-03-01T06:52:18.861Z"}
+info: New user registered: test@test.com {"timestamp":"2026-03-01T06:57:25.707Z"}
+info: User logged in successfully: test@test.com {"timestamp":"2026-03-01T06:57:59.689Z"}
+info: Profile accessed by: test@test.com {"timestamp":"2026-03-01T06:59:57.672Z"}
