@@ -1,0 +1,56 @@
+
+[1;37m[ Lynis 3.1.6 ][0m
+
+################################################################################
+  Lynis comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
+  welcome to redistribute it under the terms of the GNU General Public License.
+  See the LICENSE file for details about using this software.
+
+  2007-2025, CISOfy - https://cisofy.com/lynis/
+  Enterprise support available (compliance, plugins, interface and tools)
+################################################################################
+
+
+[+] [1;33mInitializing program[0m
+------------------------------------
+[2C- Detecting OS... [41C [ [1;32mDONE[0m ]
+[2C- Checking profiles...[37C [ [1;32mDONE[0m ]
+
+  ---------------------------------------------------
+  Program version:           3.1.6
+  Operating system:          Linux
+  Operating system name:     Kali Linux
+  Operating system version:  Rolling release
+  End-of-life:               [1;31mUNKNOWN[0m
+  Kernel version:            6.18.12+kali
+  Hardware platform:         x86_64
+  Hostname:                  kali
+  ---------------------------------------------------
+  Profiles:                  /etc/lynis/default.prf
+  Log file:                  /var/log/lynis.log
+  Report file:               /var/log/lynis-report.dat
+  Report version:            1.0
+  Plugin directory:          /etc/lynis/plugins
+  ---------------------------------------------------
+  Auditor:                   [Not Specified]
+  Language:                  en
+  Test category:             all
+  Test group:                all
+  ---------------------------------------------------
+[2C- Program update status... [32C [ [1;32mNO UPDATE[0m ]
+
+[+] [1;33mSystem tools[0m
+------------------------------------
+[2C- Scanning available tools...[30C
+[2C- Checking system binaries...[30C
+
+[+] [1;35mPlugins (phase 1)[0m
+------------------------------------
+[0CNote: plugins have more extensive tests and may take several minutes to complete[0C
+[0C [0C
+[2C- [0;36mPlugin[0m: [1;37mdebian[0m[21C
+    [
+[+] [1;33mDebian Tests[0m
+------------------------------------
+[2C- Checking for system binaries that are required by Debian Tests...[0C
+[4C- Checking /bin... [38C [ [1;32mFOUND[0m ]

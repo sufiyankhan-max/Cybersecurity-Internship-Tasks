@@ -1,0 +1,17 @@
+- Nikto v2.6.0
+---------------------------------------------------------------------------
++ Your Nikto installation is out of date.
++ Target IP:          127.0.0.1
++ Target Hostname:    localhost
++ Target Port:        3000
++ Platform:           Unknown
++ Start Time:         2026-03-27 10:21:58 (GMT-4)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ [999100] /: Uncommon header(s) 'origin-agent-cluster' found, with contents: ?1.
++ [999986] /server-status: Retrieved access-control-allow-origin header: http://localhost:3000.
++ [999100] /server-status: Uncommon header(s) 'x-ratelimit-remaining' found, with contents: 90.
++ [999100] /server-status: Uncommon header(s) 'x-ratelimit-reset' found, with contents: 1774622204.
++ [999100] /server-status: Uncommon header(s) 'x-ratelimit-limit' found, with contents: 100.
++ No CGI Directories found (use '-C all' to force check all possible dirs). CGI tests skipped.
++ [013587] /: Suggested security header missing: permissions-policy. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Permissions-Policy
